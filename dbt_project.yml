@@ -2,6 +2,9 @@ name: jaffle_shop
 
 profile: jaffle_shop
 
+dbt-cloud:
+    project-id: 70471823527903
+
 seed-paths: ["seeds"]
 model-paths: ["models"]
 macro-paths: ["macros"]
